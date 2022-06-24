@@ -42,4 +42,5 @@ function calculate(first_num, operator, second_num) {
 }
 
 
+// involke the function 
 console.log(calculate(4, "*", 4));
